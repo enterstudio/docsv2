@@ -15,6 +15,6 @@ mkdocs==0.14.0
 pyasn1==0.1.7
 python-dateutil==2.4.2
 PyYAML==3.11
-rsa==3.1.4
+rsa==4.1
 six==1.9.0
 tornado==4.1
