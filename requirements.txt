@@ -14,7 +14,7 @@ MarkupSafe==0.23
 mkdocs==0.14.0
 pyasn1==0.1.7
 python-dateutil==2.4.2
-PyYAML==3.11
+PyYAML==5.4
 rsa==3.1.4
 six==1.9.0
 tornado==4.1
