@@ -6,7 +6,7 @@ certifi==2015.4.28
 colorama==0.3.3
 docutils==0.12
 ghp-import==0.4.1
-Jinja2==2.7.3
+Jinja2==2.11.3
 jmespath==0.7.1
 livereload==2.3.2
 Markdown==2.6.2
