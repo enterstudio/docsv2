@@ -1,7 +1,7 @@
 # pip install awscli mkdocs
-awscli==1.7.26
+awscli==1.16.213
 bcdoc==0.14.0
-botocore==0.107.0
+botocore==1.9.12
 certifi==2015.4.28
 colorama==0.3.3
 docutils==0.12
