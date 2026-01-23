@@ -12,7 +12,7 @@ livereload==2.3.2
 Markdown==2.6.2
 MarkupSafe==0.23
 mkdocs==0.14.0
-pyasn1==0.1.7
+pyasn1==0.6.2
 python-dateutil==2.4.2
 PyYAML==3.11
 rsa==3.1.4
